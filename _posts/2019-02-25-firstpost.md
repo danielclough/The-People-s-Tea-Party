@@ -1,3 +1,9 @@
+---
+layout: post
+title: First Post - Introducing The People's Tea Party 
+categories: [Miscellaneous, Intro]
+---
+
 # The People's Tea Party
 
 Welcome to **The People's Tea Party**. 
