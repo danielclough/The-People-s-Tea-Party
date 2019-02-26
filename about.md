@@ -1,15 +1,12 @@
-# The People's Tea Party
-
 Welcome to **The People's Tea Party**. 
-If you came to learn about The People's Tea Party, you are in the right place. 
 If you want to participate we will be excited to meet you!
 
 # Platform Ethics
-**Liberty** </br>
-**Mutual Interdependence** </br>
-**Cooperation** </br>
-**Pragmatics** </br>
-**Democracy** </br>
+**Liberty** - 
+**Mutual Interdependence** - 
+**Cooperation** - 
+**Pragmatics** - 
+**Democracy** 
 
 
 ## Liberty
