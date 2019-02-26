@@ -1,5 +1,3 @@
-# The People's Tea Party
-
 Welcome to **The People's Tea Party**. 
 If you want to participate we will be excited to meet you!
 
